@@ -15,11 +15,11 @@
 <a href="https://github.com/PR0FESS0R-99/DonLee-Robot-V2/blob/main/LICENSE"><img alt="github" src="https://img.shields.io/badge/License-AGPL-blue"/></a>
 </p>
 
-👋Hey <a href="https://telegram.dog/Ameen_Ameen_12">⸙ꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋᵐʳ𝐔𝐧𝐤𝐧𝐨𝐰𝐧🇮🇳༒</a>, Iam <a href="https://telegram.me/Donlee_Robot">Auto Filter V2 Bot</a>
+👋Hey <a href="https://telegram.dog/Ameen_Ameen_12">⸙ꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋᵐʳ𝐔𝐧𝐤𝐧𝐨𝐰𝐧🇮🇳༒</a>, Iam <a href="https://telegram.me/autofilter_TG_Bot">Auto Filter V2 Bot</a>
 Make me an admin for your group and channel then connect me....🎉
-🙂To build a Auto Filter V2 like me, click on the <a href="https://telegram.dog/Donlee_Robot">/subscribe</a> command
+🙂To build a Auto Filter V2 like me, click on the <a href="https://telegram.me/autofilter_TG_Bot">/subscribe</a> command
 Subscribe to the update channel to learn about my updates and activity...
-Click on the Help Button or <a href="https://telegram.dog/Donlee_Robot">/help</a> Command for more information
+Click on the Help Button or <a href="https://telegram.me/autofilter_TG_Bot">/help</a> Command for more information
 🧒 Maintained By <a href="https://t.me/Ameen_Ameen_12">This Person</a>     
    
 ----
