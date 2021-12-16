@@ -28,7 +28,7 @@ Click on the Help Button or <a href="https://telegram.me/autofilter_TG_Bot">/hel
 ↪️ 𝐑𝐄𝐏𝐎𝐒𝐈𝐓𝐎𝐑𝐘 𝐒𝐓𝐀𝐓𝐔𝐒 ↩️
 </p>
 
-[![DONLEEROBOTV2](https://github-readme-stats.vercel.app/api/pin/?username=PR0FESS0R-99&repo=DonLee-Robot-V2)](https://github.com/Ameenamaan/new-Donlee-repo)
+[![DONLEEROBOTV2](https://github-readme-stats.vercel.app/api/pin/?username=https://github.com/Ameenamaan/new-Donlee-repo)](https://github.com/Ameenamaan/new-Donlee-repo)
 
 
 ----
