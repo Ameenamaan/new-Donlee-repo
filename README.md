@@ -85,6 +85,8 @@ Click on the Help Button or <a href="https://telegram.me/autofilter_TG_Bot">/hel
 ↪️ 𝐃𝐄𝐏𝐋𝐎𝐘 𝐓𝐎 𝐇𝐄𝐑𝐎𝐊𝐔 ↩️
 </p>
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ameenamaan/new-Donlee-repo)
+
 <p align="center">
 <a href="https://youtu.be/NrbMc93aCzA"><img src="https://github.com/Ameenamaan/new-Donlee-repo" alt="PR0FESS0R-99" border="0" height="125" width="200" align="center" /></a>
 </p>
